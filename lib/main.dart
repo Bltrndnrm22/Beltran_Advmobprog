@@ -21,12 +21,12 @@ void main() async {
     _,
   ) async {
     await dotenv.load(fileName: 'assets/.env');
-    runApp(const OcrayAdvMobProg());
+    runApp(const BeltranAdvmobprog());
   });
 }
 
-class OcrayAdvMobProg extends StatelessWidget {
-  const OcrayAdvMobProg({super.key});
+class BeltranAdvmobprog extends StatelessWidget {
+  const BeltranAdvmobprog({super.key});
 
   @override
   Widget build(BuildContext context) {

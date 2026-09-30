@@ -1,6 +1,6 @@
 {
-    "name": "ocray_advmobprog",
-    "short_name": "ocray_advmobprog",
+    "name": "E-Commerce App",
+    "short_name": "E-Commerce App",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
